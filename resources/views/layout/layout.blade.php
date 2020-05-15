@@ -13,7 +13,7 @@
   <!-- Bootstrap core CSS -->
   <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   
-  <link rel="icon" href="img/logo.png">
+  <link rel="icon" href="../img/logo.png">
   <!-- Custom styles for this template -->
   <link href="../css/modern-business.css" rel="stylesheet">
 

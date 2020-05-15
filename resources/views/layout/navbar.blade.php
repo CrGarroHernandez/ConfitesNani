@@ -1,5 +1,5 @@
   <!-- Navigation -->
-  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-logo fixed-top">
     <div class="container">
       <a class="navbar-brand" href="{{ url('/') }}">Confites Nani</a>
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -11,7 +11,7 @@
             <a class="nav-link" href="{{ url('/') }}">Inicio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="services.html">Nosotros</a>
+            <a class="nav-link" href="{{ url('/nosotros') }}">Nosotros</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ url('/contactanos') }}">Contáctanos</a>

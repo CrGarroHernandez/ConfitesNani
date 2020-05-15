@@ -16,6 +16,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'ProductController@index')->name('index');
 Route::get('/product/{id}', 'ProductController@show')->name('product.show');
 
+Route::get('/nosotros', function () {
+    return view('about');
+});
+
 Route::get('/contactanos', function () {
     return view('contact');
 });
