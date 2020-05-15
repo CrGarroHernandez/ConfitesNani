@@ -7,7 +7,7 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <!-- Slide One - Set the background image for this slide in the line below -->
-        <div class="carousel-item active" style="background-image: url('img/logo celeste.jpg')">
+        <div class="carousel-item active" style="background-image: url('img/banner celeste.jpg')">
           <div class="carousel-caption d-none d-md-block">
             <h3></h3>
             <p></p>
